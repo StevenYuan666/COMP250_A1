@@ -1,5 +1,5 @@
 # Online Travel Agency Simulation
-**Simulate the main functions of the following: **
+**Simulate the main functions of the following:**
 
 1. Airport
 
